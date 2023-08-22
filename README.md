@@ -4,7 +4,6 @@
 
 This project provides a framework to analyze and visualize log files using PySpark on Google Cloud Platform (GCP). It's aimed to help in understanding log file metrics, identifying trends, and extracting insights efficiently.
 
-![Logo or Banner related to PySpark or Log Analysis](path_to_logo_or_banner.jpg)
 
 ## Features:
 - **Detailed Log Analysis**: Delve deep into your logs.
