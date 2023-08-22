@@ -1,5 +1,8 @@
 # Basic-RDD-Using-PySpark
 
+Google Slides Reference Link: [
+](https://docs.google.com/presentation/d/1mHUPF04Kmy2IrxPZ0PFb7NwKFis0fldXWd-qhs_PgUc/edit#slide=id.g27649b836e5_0_172)
+
 # Log File Analysis with PySpark RDD Project on GCP
 
 This project provides a framework to analyze and visualize log files using PySpark on Google Cloud Platform (GCP). It's aimed to help in understanding log file metrics, identifying trends, and extracting insights efficiently.
